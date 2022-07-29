@@ -1,4 +1,4 @@
-import doodad as dd
+#import doodad as dd
 import gcsl.doodad_utils as dd_utils
 
 def run(output_dir='/tmp', env_name='pointmass_empty', gpu=True, seed=0, **kwargs):
